@@ -80,7 +80,7 @@ int main(void) {
   int arr[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 1};
   bool ans = contains_duplicate(arr, 10);
 
-  printf("%i", ans ? 1 : 0);
+  printf("%d\n", ans ? 1 : 0);
 
   return 0;
 }
