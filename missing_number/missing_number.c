@@ -1,3 +1,7 @@
+// Find missing number in arr 0 < arr[n] < arr length
+// Example: [9, 6, 4, 2, 3, 5, 7, 0, 1] returns 8
+// Calculate difference between arr length and sum of arr vals
+
 #include <stdio.h>
 
 int missing_number(int* nums, int numsSize) {
