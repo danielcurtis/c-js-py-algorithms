@@ -1,3 +1,7 @@
+// Find duplicate number in arr when arr[n] > 0
+// Example: [1, 2, 3, 1] returns true
+// If set already has number, return 1
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
