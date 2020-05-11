@@ -1,4 +1,4 @@
-# C, JavaScript (Node), & Python Algorithms
+# C, JavaScript & Python Algorithms
 
 I created this repo to share my solutions of common algorithm questions.
 
@@ -12,9 +12,9 @@ I decided to solve them using the three languages I know best: C, JavaScript, an
 
 ## Running locally
 
-I like to use the `time` command to run the files. While it's not perfect, it gives a good indicator. It's **_shocking_** but I've yet to come up with a JavaScript or Python solution faster than C.
+I like to use the `time` command to run the files. While it's not perfect, it gives a good indicator. I know it's **_shocking_** but I've yet to come up with a JavaScript or Python solution faster than C.
 
-For example I compile the C file then run all three files with time:
+For example, I compile the C file then run all three files with time:
 
 ```bash
 gcc filename.c
