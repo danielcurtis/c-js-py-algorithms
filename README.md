@@ -1,18 +1,21 @@
-# C, JavaScript & Python Algorithms
+# Algorithms & Data Structures
 
-I created this repo to share my solutions of common algorithm questions.
+I created this repo to create an open source set of algorithms and data structures helpful for technical interviews. I try to have at least two languages from C, C++, Python, and JavaScript.
 
-I decided to solve them using the three languages I know best: C, JavaScript, and Python. I typically solve the problem in JavaScript first and optimize it. Then I move onto Python, and then C to think more about the data structures more critically.
-
-## Technologies
-
-- Python 3
-- gcc
-- Node
+- Interview Questions holds popular algorithmic questions
+- Data Structures holds physical and logical structures
+- Sorting Algorithms holds the most common sorting algorithms
 
 ## Running locally
 
-I like to use the `time` command to run the files. While it's not perfect, it gives a good indicator. Unsurprisingly, C always beats Python and JavaScript.
+**Prerequisites**
+
+- Python 3
+- GCC
+- Node.js
+
+I use the `time` command (macOS) to compare the different languages after analyzing their time and space complexities.
+
 For example, I compile the C file then run all three files with time:
 
 ```bash
